@@ -1,1 +1,8 @@
 nowy plik nr 1, godzina 22:44 - utworzono
+------------------------------------------
+
+komendy gita :
+git add index.html
+git add .	   – kropka oznacza dodanie wszystkich plików w folderze.
+git commit -m "my first repository"
+git commit -m czy git commit -am ??
