@@ -3,7 +3,7 @@ nowy plik nr 1, godzina 22:44 - utworzono
 
 komendy gita :
 git add index.html
-git add .	   – kropka oznacza dodanie wszystkich plików w folderze.
+git add .	   – kropka oznacza dodanie wszystkich plikow w folderze.
 git commit -m "my first repository"
 git commit -m czy git commit -am ??
 
@@ -21,11 +21,11 @@ git push origin maser ??
 -----------------------------------------------------------------------------------------------------
 zmiana nr 3, godzina 23:37
 
-Zmiany w pliku mo¿emy dodaæ za pomoc¹ polecenia
+Zmiany w pliku mozemy dodac za pomoca polecenia
 
 git add <nazwa_pliku>, git add .
 
-a u¿ywaj¹c 
+a uzywajac 
 
-git add -p – zobaczymy jakie zmiany zosta³y dokonane w pliku
+git add -p – zobaczymy jakie zmiany zostaly dokonane w pliku
 -----------------------------------------------------------------------------------------------------
