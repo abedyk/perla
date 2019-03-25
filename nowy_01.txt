@@ -2,3 +2,4 @@ plik nowy_01, utworzono 22:48
 plik nowy_01, zmiana 23:29 - I zmiana
 plik nowy_01, zmiana 00:00 - II zmiana na zdalnym repo ( test komendy git pull)
 plik nowy_01, zmiana 00:01 - III zmiana ( komenda zadzialala poprawnie)
+plik nowy_01, zmiana 09:34 - IV zmiana na komputerze lokalnym ( Visual Studio Code)
