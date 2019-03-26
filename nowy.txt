@@ -1,0 +1,33 @@
+nowy plik nr 1, godzina 22:44 - utworzono
+-----------------------------------------------------------------------------------------------------
+
+komendy gita :
+git add index.html
+git add .	    kropka oznacza dodanie wszystkich plikow w folderze.
+git commit -m "my first repository"
+git commit -m czy git commit -am ??
+
+-----------------------------------------------------------------------------------------------------
+zmiana nr 2, godzina 22:53
+
+komendy gita cd..
+
+git push -u origin master
+
+czy 
+
+git push origin maser ??
+
+-----------------------------------------------------------------------------------------------------
+zmiana nr 3, godzina 23:37
+
+Zmiany w pliku mozemy dodac za pomoca polecenia
+
+git add <nazwa_pliku>, git add .
+
+a uzywajac 
+
+git add -p  zobaczymy jakie zmiany zostaly dokonane w pliku
+--------------------------------------------------------------------------------------------------
+zmiana dokonano 25.03.2019 - godzina 09:58
+-----------------------------------------------------------------------------------------------------
